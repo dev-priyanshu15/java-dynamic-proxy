@@ -1,4 +1,4 @@
-# 🚀 Spring Boot Dynamic Proxy Demo
+# 🚀 Spring Boot Dynamic Proxy 
 
 A **powerful demonstration** of Java Dynamic Proxies with Spring Boot! This project showcases how to intercept and modify object behavior at runtime without changing the original code.
 
